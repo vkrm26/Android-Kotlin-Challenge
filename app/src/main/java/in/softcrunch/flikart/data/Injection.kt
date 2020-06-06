@@ -1,4 +1,3 @@
-package `in`.zapr.onemedia.data
 
 import `in`.softcrunch.flikart.data.DataRepository
 import `in`.softcrunch.flikart.data.DataSourceInterface

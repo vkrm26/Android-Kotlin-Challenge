@@ -2,7 +2,6 @@ package `in`.softcrunch.flikart
 
 import `in`.softcrunch.flikart.data.DataSourceInterface
 import `in`.softcrunch.flikart.data.local.entity.Product
-import `in`.zapr.onemedia.data.Injection
 import android.app.Application
 import android.util.Log
 import androidx.lifecycle.AndroidViewModel
